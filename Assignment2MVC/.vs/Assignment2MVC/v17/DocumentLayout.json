@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|d:\\coding\\mvc-assignments\\assignment2mvc\\assignment2mvc\\migrations\\20250303055830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|solutionrelative:assignment2mvc\\migrations\\20250303055830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|d:\\coding\\mvc-assignments\\assignment2mvc\\assignment2mvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|solutionrelative:assignment2mvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|d:\\coding\\mvc-assignments\\assignment2mvc\\assignment2mvc\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|solutionrelative:assignment2mvc\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|d:\\coding\\mvc-assignments\\assignment2mvc\\assignment2mvc\\models\\mvcentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71BF6E-FC85-4256-82A9-75E14A220EB1}|Assignment2MVC\\Assignment2MVC.csproj|solutionrelative:assignment2mvc\\models\\mvcentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250303055830_init.cs",
+              "DocumentMoniker": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Migrations\\20250303055830_init.cs",
+              "RelativeDocumentMoniker": "Assignment2MVC\\Migrations\\20250303055830_init.cs",
+              "ToolTip": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Migrations\\20250303055830_init.cs",
+              "RelativeToolTip": "Assignment2MVC\\Migrations\\20250303055830_init.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwKoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:58:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment2MVC\\Models\\Instructor.cs",
+              "ToolTip": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignment2MVC\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:31:47.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crsResult.cs",
+              "DocumentMoniker": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\crsResult.cs",
+              "RelativeDocumentMoniker": "Assignment2MVC\\Models\\crsResult.cs",
+              "ToolTip": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\crsResult.cs",
+              "RelativeToolTip": "Assignment2MVC\\Models\\crsResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:30:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MVCEntities.cs",
+              "DocumentMoniker": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\MVCEntities.cs",
+              "RelativeDocumentMoniker": "Assignment2MVC\\Models\\MVCEntities.cs",
+              "ToolTip": "D:\\Coding\\MVC-Assignments\\Assignment2MVC\\Assignment2MVC\\Models\\MVCEntities.cs",
+              "RelativeToolTip": "Assignment2MVC\\Models\\MVCEntities.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:25:44.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
